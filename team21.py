@@ -7,8 +7,8 @@
 ####
 
 team_name = 'Jaden Estrems Team' # Only 10 chars displayed.
-strategy_name = 'betray everytime strategy'
-strategy_description = 'Betray every time'
+strategy_name = 'Colude first then always betray'
+strategy_description = 'Colude first then always betray'
     
 def move(my_history, their_history, my_score, their_score):
     if 1==1:
@@ -65,4 +65,4 @@ if __name__ == '__main__':
               
 def move(my_history, their_history, my_score, their_score):
     if 1==1:
-        return 'b' yp43
+        return 'b'
