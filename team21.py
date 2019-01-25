@@ -65,4 +65,4 @@ if __name__ == '__main__':
               
 def move(my_history, their_history, my_score, their_score):
     if 1==1:
-        return 'b' 
+        return 'b' yp43
